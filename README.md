@@ -4,12 +4,12 @@ A vacation booking app showcasing destinations with pricing and activities, with
 
 ## User Interface
 
-![page 1](output/Screenshot%2026-02-08 203953.png)
+![page 1](output/1.png)
 
-![page 2](output/Screenshot%2026-02-08 204019.png)
+![page 2](output/2.png)
 
-![page 3](output/Screenshot%2026-02-08 204116.png)
+![page 3](output/3.png)
 
-![page 4](output/Screenshot%2026-02-08 204134.png)
+![page 4](output/4.png)
 
-![page 5](output/Screenshot%2026-02-08 204145.png)
+![page 5](output/5.png)
